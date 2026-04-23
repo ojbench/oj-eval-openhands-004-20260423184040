@@ -1,0 +1,9 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+code
+*.dat
+*.log
+*.o
+.vscode/
+.idea/

@@ -1,0 +1,9 @@
+su root sjtu
+useradd worker password 3 Worker
+select ISBN001
+modify -name="Book1" -author="Author1" -keyword="key1|key2" -price=10.50
+import 100 500.00
+show
+buy ISBN001 5
+show finance
+exit
